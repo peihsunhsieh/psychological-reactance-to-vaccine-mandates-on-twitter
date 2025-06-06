@@ -2,7 +2,7 @@
 
 Hsieh, PH. Psychological reactance to vaccine mandates on Twitter: a study of sentiments in the United States. J Public Health Pol 46, 269–283 (2025). https://doi.org/10.1057/s41271-025-00554-0
 
-The fine-tuned model for classifying tweets related to vaccine mandates is available on [Hugging Face](https://huggingface.co/phsieh/vaccine-mandate-bertweet-classifier).
+The fine-tuned model for classifying tweets related to vaccine mandates is available on Hugging Face [phsieh/vaccine-mandate-bertweet-classifier](https://huggingface.co/phsieh/vaccine-mandate-bertweet-classifier).
 
 This repository contains the following files:
 
